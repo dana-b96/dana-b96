@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dana
+- ✏️ I work as IT support in a school
+- 👩‍🎓 I’m studying postgrad IT - just started learning JS!
+- 🖥️ I'm super fresh in the CS world, but one day hope to be a front-end developer :-)
